@@ -12,7 +12,7 @@ in this project i used React.js,MUi,i18n and openweathermap.org APİ
 #### To make request use:
 
 ```http
-  "https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}
+  "https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}"
 ```
 
 
