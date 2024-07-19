@@ -20,3 +20,7 @@ in this project i used React.js,MUi,i18n and openweathermap.org APİ
 
 i Learned how to use the api and how to translate a website to another language
 and i Learned what is useEffect cleanup
+
+![Screenshot from 2024-07-19 18-43-10](https://github.com/user-attachments/assets/220edb23-f069-4b09-af0e-ddd8360f3e5b)
+
+
